@@ -55,5 +55,5 @@ Given an image ![](http://latex.codecogs.com/gif.latex?I_3) as shown in Fig. 3(a
 
 Design your own method to remove the wrinkles on the face of a given image ![](http://latex.codecogs.com/gif.latex?I_4) as shown in Fig. 3(b) and make it as pretty as you can. Please describe the steps of
 your process in detail and provide some discussions as well.
-- 利用mean filter進行濾波，window size設為9
+- 利用mean filter進行濾波，window size設為9  
 ![](https://i.imgur.com/k4lBXV8.png)
